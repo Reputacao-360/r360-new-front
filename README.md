@@ -1,6 +1,6 @@
 # R360-New-Frontoffice
 
-Este é o backoffice e frontoffice do Reputação 360 para empresas, um projeto [Next.js](https://nextjs.org) iniciado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Este é o frontoffice do Reputação 360 para empresas e usuarios normais , um projeto [Next.js](https://nextjs.org) iniciado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Funcionalidades
  
